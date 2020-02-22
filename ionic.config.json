@@ -1,0 +1,7 @@
+{
+  "name": "DomKitchen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
